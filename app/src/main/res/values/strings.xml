@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">zad1_sadoyan</string>
+    <string name="pass">Password</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+</resources>
